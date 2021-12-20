@@ -1,6 +1,6 @@
 # Hey
 
-I'm Daehli Nadeau-Otis Web developer. I'm fullstack, average programmer
+I'm Daehli Nadeau-Otis Web developer fullstack, average programmer.
 
 ## Interest
 
